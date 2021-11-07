@@ -1,0 +1,2 @@
+out: for.c
+	gcc -g for.c -o for.out
